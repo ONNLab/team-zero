@@ -1,0 +1,8 @@
+https://github.com/anusornc/team-zero
+
+
+1. แบ่งเป็นกลุ่ม ๆ ละ 2-3 คน
+2. สร้าง repository 1 อัน
+3. ให้ fork repository 
+4. ให้สร้างไฟล์ใหม่ขึ้นมาใน fork repository
+5. ให้ทำ pull request ไฟล์ใหม่ ให้ส่งกลับไปที่ original repository
